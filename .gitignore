@@ -1,0 +1,11 @@
+# Secrets and credentials
+.env
+*.pem
+*.key
+.aws/
+credentials
+config.json
+
+# OS files
+.DS_Store
+Thumbs.db
